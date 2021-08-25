@@ -10,7 +10,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/debangshu-bhattacharje
 
 ## Skills
 <div >
-<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width=40px height=40px style="margin:101px;"> 
+<img src='https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg' width=40px height=40px> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' width=40px height=40px> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg' width=40px height=40px> 
 <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' width=40px height=40px> 
@@ -23,4 +23,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/debangshu-bhattacharje
 
 ---
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebangshuB&layout=compact&theme=gruvbox&hide=contribs,prs)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebangshuB&layout=compact&theme=gruvbox">
+</p>
