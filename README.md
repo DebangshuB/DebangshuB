@@ -2,7 +2,7 @@
 
 * I am a 3rd Year Computer Science student at Kalinga Institute of Industrial Technology.
 * I'm from Kolkata,India and I'm interested to be a ML Engineer/Data Scientist.
-* Currently I'm learning MLOps.
+* Currently I'm learning MLOps to build scalable and automated ML pipelines.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/debangshu-bhattacharjee-061816219/).
 
