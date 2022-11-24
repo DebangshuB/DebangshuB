@@ -23,21 +23,19 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60px" />  	
 </p>
 
-## 📊 Stats
+## 📊 GitHub Stats
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="175px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="175px">
 </p>
 <p align="center">
-	<img src="">
+	<img src="https://github.com/DebangshuB/DebangshuB/blob/output/github-contribution-grid-snake.svg">
 </p>
 
-## 📷 Hobby
+## 📷 Top Hobby
 <p align="center">
-	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/46664047_2447117785515254_3108798156178049252_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=mOFD-0RoHOoAX_ACg91&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk0MDA4MjMxOTExMDg0ODIyMQ%3D%3D.2-ccb7-5&oh=00_AfBh4iHHzKZqB0DFgTR2CyVOSAHz_5ykNYuWOBEMact4og&oe=6383814A&_nc_sid=30a2ef" height="200px">
-	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/84183475_225631691807235_6777455530121903729_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=H2vlexqm03IAX_jTFP3&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjIzNzk3NjQ2NzkwNDMwNTYzNQ%3D%3D.2-ccb7-5&oh=00_AfA5RxNeHsLD1x5rWnY68q1nA3q3J-oFrphVHwJun6JSyA&oe=6384FEE7&_nc_sid=30a2ef" height="200px">
-	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/72232142_768388880327296_4096316058789746610_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=kqqSfkfkK4wAX-0FDLf&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjE2NzcxNTk5NDE3OTU5OTk1OA%3D%3D.2-ccb7-5&oh=00_AfCpgp1momxtbpuuX97UdKZxfhGEozyGuKD0RKc1EtJR1A&oe=63856B18&_nc_sid=30a2ef" height="200px">
-	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/82305334_606951213182629_619180666048895245_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A96iFaAZ6B4AX_YvZwD&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjIzNDkyMjkyOTQ3MTI2ODA5Mw%3D%3D.2-ccb7-5&oh=00_AfC8iR-d9LVJfmElkO_ehvYzMoec_r_0biK28MpI9h1FXg&oe=638475CD&_nc_sid=30a2ef" height="200px">
-	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/47584779_452686798601861_1065717746754631878_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=9_fxQV9-RtQAX-0ocB8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk0MjE1NTQyMjA5NTc1Mzg1OA%3D%3D.2-ccb7-5&oh=00_AfDGBFdZrOPrrJv_GYCY6qPoQaRlpnydMTloQ9GzRd8RxQ&oe=6383D376&_nc_sid=30a2ef" height="200px">
+	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/46664047_2447117785515254_3108798156178049252_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=mOFD-0RoHOoAX_ACg91&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk0MDA4MjMxOTExMDg0ODIyMQ%3D%3D.2-ccb7-5&oh=00_AfBh4iHHzKZqB0DFgTR2CyVOSAHz_5ykNYuWOBEMact4og&oe=6383814A&_nc_sid=30a2ef" height="250px">
+	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/82305334_606951213182629_619180666048895245_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A96iFaAZ6B4AX_YvZwD&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjIzNDkyMjkyOTQ3MTI2ODA5Mw%3D%3D.2-ccb7-5&oh=00_AfC8iR-d9LVJfmElkO_ehvYzMoec_r_0biK28MpI9h1FXg&oe=638475CD&_nc_sid=30a2ef" height="250px">
+	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/47584779_452686798601861_1065717746754631878_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=9_fxQV9-RtQAX-0ocB8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk0MjE1NTQyMjA5NTc1Mzg1OA%3D%3D.2-ccb7-5&oh=00_AfDGBFdZrOPrrJv_GYCY6qPoQaRlpnydMTloQ9GzRd8RxQ&oe=6383D376&_nc_sid=30a2ef" height="250px">
 </p>
