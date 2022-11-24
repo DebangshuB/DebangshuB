@@ -39,3 +39,6 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/82305334_606951213182629_619180666048895245_n.jpg?stp=dst-jpg_e35_p480x480&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=A96iFaAZ6B4AX_YvZwD&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjIzNDkyMjkyOTQ3MTI2ODA5Mw%3D%3D.2-ccb7-5&oh=00_AfC8iR-d9LVJfmElkO_ehvYzMoec_r_0biK28MpI9h1FXg&oe=638475CD&_nc_sid=30a2ef" height="280px">
 	<img src="https://instagram.fccu15-1.fna.fbcdn.net/v/t51.2885-15/47584779_452686798601861_1065717746754631878_n.jpg?stp=dst-jpg_e35&_nc_ht=instagram.fccu15-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=9_fxQV9-RtQAX-0ocB8&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MTk0MjE1NTQyMjA5NTc1Mzg1OA%3D%3D.2-ccb7-5&oh=00_AfDGBFdZrOPrrJv_GYCY6qPoQaRlpnydMTloQ9GzRd8RxQ&oe=6383D376&_nc_sid=30a2ef" height="280px">
 </p>
+
+Find me on <img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" height="18px">  [Instagram](https://www.instagram.com/debangshu_bhattacharjee).
+
