@@ -26,8 +26,8 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 ## 📊 Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="120px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="120px">
+	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="150px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="150px">
 </p>
 <p align="center">
 	<img src="https://github.com/DebangshuB/DebangshuB/blob/output/github-contribution-grid-snake.svg">
