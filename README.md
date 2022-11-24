@@ -1,10 +1,10 @@
 ## Hi, I'm Debangshu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-* I am a 3rd Year Computer Science student at Kalinga Institute of Industrial Technology.
-* I'm from Kolkata,India and I'm interested to be a ML Engineer/Data Analyst/Data Engineer
+* I am a Final year Computer Science Student at Kalinga Institute of Industrial Technology.
+* I'm from Kolkata, India and I'm interested to be a Data Engineer / Data Scientist.
 * Currently I'm learning Data Engineering to help build systems to process data at scale.
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/debangshu-bhattacharjee-061816219/).
+You can find me on [LinkedIn](https://www.linkedin.com/in/debangshubh/).
 
 ## Skills
 <p align="center">
