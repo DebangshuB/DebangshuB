@@ -11,11 +11,9 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60px" />
-	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="60px"/>
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60px"/>
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60px"/>
-	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60px" />
 	    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60px" />
@@ -28,8 +26,8 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 ## 📊 Stats
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="200px">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="200px">
+	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="120px">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="120px">
 </p>
 <p align="center">
 	<img src="https://github.com/DebangshuB/DebangshuB/blob/output/github-contribution-grid-snake.svg">
