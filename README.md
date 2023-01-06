@@ -29,9 +29,6 @@ You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/
 	<img src="https://github-readme-stats.vercel.app/api?username=DebangshuB&count_private=true&show_icons=true&theme=gruvbox" height="175px">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&theme=gruvbox"  height="175px">
 </p>
-<p align="center">
-	<img src="https://github.com/DebangshuB/DebangshuB/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 ## 📷 Top Hobby
 <p align="center">
