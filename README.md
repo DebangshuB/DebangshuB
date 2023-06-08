@@ -1,7 +1,7 @@
 ## 👨‍💻 Hi, I'm Debangshu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 * 🎓 I am a Final year Computer Science Student at Kalinga Institute of Industrial Technology.
-* 🏠 I'm from Kolkata, India and I'm interested to be a Data Engineer / Data Scientist.
+* 🏠 I'm from Kolkata, India currently living in Bengaluru, Karnataka.
 * 📚 Currently I'm learning Data Engineering to help build systems to process data at scale.
 
 You can find me on <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="18px"/> [LinkedIn](https://www.linkedin.com/in/debangshubh/).
